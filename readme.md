@@ -1,1 +1,1 @@
-<img src="/Capture.png">
+![alt text](/Capture.PNG)
